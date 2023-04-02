@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmbo123
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in EVERYTHING, and being a genius
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
