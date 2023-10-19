@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Houston<br><br>- 🔭 I’m a student at the University of Houston<br>- 📚 I'm currently learning web development technologies and creating NN from scratch<br>- ⚡ In my free time I like to chill 😎<br>I am interested in web-dev, graphics, deep learning, HPC</p>
+<p align="left">I'm from Houston<br><br>- 🔭 I’m a student at the University of Houston<br>- 📚 I'm currently learning web development technologies and creating NN from scratch<br>- ⚡ In my free time I like to chill 😎<br>- 💻 I am interested in web-dev, graphics, deep learning, HPC</p>
 
 ###
 
